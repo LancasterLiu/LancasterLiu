@@ -20,10 +20,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; align-items: center;">
     <a href="https://www.linkedin.com/in/lancasterliu/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" style="vertical-align: middle;" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" style="vertical-align: middle;" />
     </a>
-    <a href="https://instagram.com/cryp.smc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cryp.smc" height="30" width="40" /></a>
-    <a href="https://blog.csdn.net/m0_51940505?spm=1000.2115.3001.5343" target="blank">
+    <a href="https://instagram.com/cryp.smc" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ins" height="40" width="40 style="vertical-align: middle;" />
+    </a>
+    <a href="https://blog.csdn.net/m0_51940505" target="blank">
         <img align="center" src="./images/CSDN.jfif" alt="CSDN" height="40" width="40" style="vertical-align: middle;" />
     </a>
 </p>
