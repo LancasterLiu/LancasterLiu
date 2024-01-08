@@ -24,7 +24,7 @@
     </a>
     <a href="https://instagram.com/cryp.smc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cryp.smc" height="30" width="40" /></a>
     <a href="https://blog.csdn.net/m0_51940505?spm=1000.2115.3001.5343" target="blank">
-        <img align="center" src="./images/CSDN.jfif" alt="CSDN" height="30" width="40" style="vertical-align: middle;" />
+        <img align="center" src="./images/CSDN.jfif" alt="CSDN" height="40" width="40" style="vertical-align: middle;" />
     </a>
 </p>
 
