@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning in [UC Berkeley](https://eecs.berkeley.edu/) as an exchange student from CQU
 - 🔭 I'm currently enthusiastic about **NLP**, **LLM** and **Multimodal Models**
 - 📫 How to reach me: lancasterl715@gmail.com / lancasterliu@berkeley.edu
-- 📝 I regularly write articles on [CSDN](https://blog.csdn.net/m0_51940505)
+- 📝 I regularly write articles(pro & entertainment) on [CSDN](https://blog.csdn.net/m0_51940505)
 - 💬 Know more about my experiences from my [CV](./reference/CV.pdf)
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: INTJ
