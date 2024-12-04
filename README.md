@@ -14,7 +14,7 @@
 - 📝 I regularly write articles(pro & entertainment) on [CSDN](https://blog.csdn.net/m0_51940505)
 - 💬 Know more about my experiences from my [CV](./reference/CV.pdf)
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: INTJ
+- ⚡ Fun fact: INTJ&INFP
 
 
 <h3 align="left">Connect with me:</h3>
