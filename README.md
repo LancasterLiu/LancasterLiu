@@ -12,7 +12,7 @@
 - 🔭 I'm currently enthusiastic about **LLM**, **Multimodal Models** and **agents**
 - 📫 How to reach me: lancasterl715@gmail.com / lancasterliu_cryp@163.com
 - 📝 I regularly write articles(over 200,000 reads) on [CSDN](https://blog.csdn.net/m0_51940505)
-- 💬 Know more about my experiences from my [CV](./reference/CV_Shuwen Liu.pdf)
+- 💬 Know more about my experiences from my [CV](./reference/CV.pdf)
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: INTJ/INFP
 
