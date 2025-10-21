@@ -1,6 +1,6 @@
 [![MasterHead](./images/github-header-image.png)](https://github.com/LancasterLiu)
 <h1 align="center">Hi, I'm Shuwen (Lancaster) Liu 👋</h1>
-<h3 align="center">A passionate computer science student</h3>
+<h3 align="center">Always be passionate on the way</h3>
 
 ### Hi there 👋
 
@@ -12,7 +12,7 @@
 - 🔭 I'm currently enthusiastic about **LLM**, **Multimodal Models** and **agents**
 - 📫 How to reach me: lancasterl715@gmail.com / lancasterliu_cryp@163.com
 - 📝 I regularly write articles(over 200,000 reads) on [CSDN](https://blog.csdn.net/m0_51940505)
-- 💬 Know more about my experiences from my [CV](./reference/CV.pdf)
+- 💬 Know more about my experiences from my [CV](./reference/CV_Shuwen Liu.pdf)
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: INTJ/INFP
 
