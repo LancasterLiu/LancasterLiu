@@ -6,12 +6,12 @@
 
 <!--- 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...-->
-- 🔭 I'm currently enthusiastic about **AI for good**, **LLM**, **Multimodal Models** and **agents** 
+- 🤔 I’m looking for help with ...-->
+- 💬 Ask me about everything
+- 🔭 I'm currently enthusiastic about **AI for good**, **LLM**, **Multimodal Models** and **Agents** 
 - 📫 How to reach me: lancster_liu@126.com / lancasterl715@gmail.com
-- 📝 I regularly write articles(over 200,000 reads) on [CSDN](https://blog.csdn.net/m0_51940505)
-- 🌱 I got the bachelor from [CQU](https://www.cqu.edu.cn/), and studied in [UC Berkeley](https://eecs.berkeley.edu/) as an exchange student 
+- 📝 I regularly write articles(over **200,000** reads) on [CSDN](https://blog.csdn.net/m0_51940505)
+- 🌱 I got a bachelor from [CQU](https://www.cqu.edu.cn/). And studied in [UC Berkeley](https://eecs.berkeley.edu/) as an exchange student, joined [CSUA](https://www.csua.berkeley.edu/) as an officer in [Fall 2023](https://www.csua.berkeley.edu/officers/fa23/) and [Spring 2024](https://www.csua.berkeley.edu/officers/sp24/)
 - 💬 Know more about my experiences from my [CV](./reference/CV.pdf)
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: INTJ/INFP
