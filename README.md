@@ -1,6 +1,20 @@
+<nav>
+    <a href="./README.md" style="font-weight: bold;">homepage</a>
+    &emsp;&emsp;&emsp;
+    <a href="./blogs_recreation/init.md">Blogs here</a>
+    &emsp;&emsp;&emsp;
+    <a href="https://blog.csdn.net/m0_51940505">Blogs in CSDN</a>
+</nav>
+
+
 [![MasterHead](./images/github-header-image.png)](https://github.com/LancasterLiu)
+
+
 <h1 align="center">Hi, I'm Shuwen (Lancaster) Liu 👋</h1>
+
+
 <h3 align="center">Always be passionate on the way</h3>
+
 
 ### Hi there 👋
 
@@ -15,6 +29,8 @@
 - 💬 Know more about my experiences from my [CV](./reference/CV_Shuwen.pdf)
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: INTJ/INFP
+
+
 
 
 <h3 align="left">Connect with me:</h3>
